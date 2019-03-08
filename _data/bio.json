@@ -74,8 +74,8 @@
         "WindowsOS",
         "Linux",
         "Git/GitHub"
-        //"g++",
-        //"TI LaunchPad"
+        // "g++",
+        // "TI LaunchPad"
       ]
     }
   ],
