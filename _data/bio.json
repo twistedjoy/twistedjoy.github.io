@@ -24,16 +24,6 @@
         //"network": "linkedin",
         //"username": "",
         //"url": "http://linkedin.com/in/"
-      },
-      {
-        //"network": "twitter",
-        //"username": "",
-        //"url": "http://twitter.com/"
-      },
-      {
-        //"network": "instagram",
-        //"username": "",
-        //"url": "http://instagram.com/"
       }
     ]
   },
@@ -65,7 +55,8 @@
         "C++",
         "Java"
       ]
-    },
+    }
+   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
