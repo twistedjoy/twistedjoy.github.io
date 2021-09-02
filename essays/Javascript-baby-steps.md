@@ -9,6 +9,7 @@ labels:
   - javascript
 ---
 
+<img class = "ui right spaced image" src = "../images/first-steps-in-javascript.png">
 ## Baby's first experience with Javascript
 
 Having come from a background of Java, C, and C++, I immediately felt a sense of familiarity with Javascript. It has the ease of string handling and outputting to the console as Java, and the object structure reminds me of my days using C++ for object-oriented programming.
