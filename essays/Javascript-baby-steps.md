@@ -1,8 +1,7 @@
 ---
 layout: essay
 type: essay
-title: First Steps in Javascript, 
-and the Land is Quite Familiar
+title: First Steps in Javascript, and the Land is Quite Familiar
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-01
 labels:
