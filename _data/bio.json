@@ -2,7 +2,7 @@
   "basics": {
     "name": "Joy Okimoto",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/template/images/profile-1.png",
     "email": "jokimo@hawaii.edu",
     "phone": "",
     "website": "https://joyokimoto.github.io",
@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-     "name": "software development",
+     "name": "software development"
      // "keywords": [
      //   "Arduino",
      //   "TI MSP430"
     //  ]
     },
     {
-     "name": "web development",
+     "name": "web development"
      // "keywords": [
     //  ]
     },
     {
-     "name": "app development",
+     "name": "app development"
      // "keywords": [
      // ]
     },
