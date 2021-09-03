@@ -5,7 +5,7 @@ image: images/eex96-drone.jpg
 title: Drone Security
 permalink: projects/wireless-drone-security
 # All dates must be YYYY-MM-DD format!
-date: 2019-05 to 2020-05
+date: 2020-05
 labels:
   - wireless penetration
   - drones
