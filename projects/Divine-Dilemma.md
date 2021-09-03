@@ -21,5 +21,4 @@ In our game, I practiced the techniques we had been learning, such as processing
 
 
  
-YouTube demonstration: (<a href = "https://youtu.be/8AU2XbNhB88"> Divine Dilemma video </a>)
-Others: (<a href = "https://scratch.mit.edu/"> Scratch MIT </a>)
+YouTube demonstration: (<a href = "https://youtu.be/8AU2XbNhB88"> Divine Dilemma video </a>), Others: (<a href = "https://scratch.mit.edu/"> Scratch MIT </a>)
