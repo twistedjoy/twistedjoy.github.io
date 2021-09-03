@@ -1,27 +1,25 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/divine-dilemma-1.jpg
+title: Divine Dilemma
+permalink: projects/divine-dilemma
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-03
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - scratch MIT
+  - video game
+  - art
+summary: A game that I made for my introductory programming class in 12th grade (senior year in high school). We were tasked with creating a game on the Scratch MIT website (https://scratch.mit.edu/), which we had been doing algorithmic exerises on for a while up until that point.
+
+<img class="ui medium right image" src="../images/divine-dilemma-2.jpg">
+
+
+In our game, I practiced the techniques we had been learning, such as processing keyboard and mouse inputs from the user, implementing a counter (to keep track of the user's score), and conditional loops.
+
+
 ---
 
-**SAMPLE (PROJECT TEMPLATE)**
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+YouTube demonstration: (https://youtu.be/8AU2XbNhB88)
