@@ -27,28 +27,28 @@
       }
     ]
   },
-  "interests": [
-    {
-     //"name": "software development"
+  //"interests": [
+    //{
+     "name": "software development"
      // "keywords": [
      //   "Arduino",
      //   "TI MSP430"
     //  ]
-    },
-    {
+   // },
+   // {
      //"name": "web development"
      // "keywords": [
     //  ]
-    },
-    {
+   // },
+   // {
      //"name": "app development"
      // "keywords": [
      // ]
-    },
-    {
+  //  },
+   // {
       //"name": "network security"
-    }
-  ],
+   // }
+ // ],
   "skills": [
     {
       "name": "Languages and Frameworks",
