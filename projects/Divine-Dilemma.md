@@ -5,7 +5,7 @@ image: images/divine-dilemma-1.jpg
 title: Divine Dilemma
 permalink: projects/divine-dilemma
 # All dates must be YYYY-MM-DD format!
-date: 2017-03
+date: 2017-03-01
 labels:
   - scratch MIT
   - video game
