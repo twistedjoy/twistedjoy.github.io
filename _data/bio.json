@@ -29,21 +29,24 @@
   },
   "interests": [
     {
-     // "name": "internet of things",
+     "name": "software development",
      // "keywords": [
      //   "Arduino",
      //   "TI MSP430"
     //  ]
     },
     {
-     // "name": "data mining",
+     "name": "web development",
      // "keywords": [
     //  ]
     },
     {
-     // "name": "artificial intelligence",
+     "name": "app development",
      // "keywords": [
      // ]
+    },
+    {
+      "name": "network security"
     }
   ],
   "skills": [
@@ -53,6 +56,7 @@
       "keywords": [
         "C",
         "C++",
+        "Javascript",
         "Java"
       ]
     }
@@ -71,14 +75,15 @@
   ],
   "work": [
     {
-     // "company": "UH Manoa Board of Publications",
-      //"position": "Web Developer",
-      //"website": "",
-      //"startDate": "2015-08-01",
-     // "endDate": "Present",
-      //"summary": "Head of online presence for Ka Leo",
-      //"highlights": [
-       // "Maintain, update, and oversee official college newspaper website",
+      "company": "Defense Information Systems Agency Pacific (DISA PAC)",
+      "position": "Engineering Intern",
+      "website": "https://www.disa.mil/about/our-organization-structure/od-field-office/pacific",
+      "startDate": "2020-11-09",
+      "endDate": "Present",
+      "summary": "Learning while shadowing and assisting with technical and engineering tasks.",
+      "highlights": [
+       "Maintain, update, and research the internal SharePoint online site and Microsoft Office365",
+       "Study network security"
         //"Drive, design and build student-community projects for UH Manoa"
      // ]
     },
