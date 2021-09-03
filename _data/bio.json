@@ -29,24 +29,24 @@
   },
   "interests": [
     {
-     "name": "software development"
+     //"name": "software development"
      // "keywords": [
      //   "Arduino",
      //   "TI MSP430"
     //  ]
     },
     {
-     "name": "web development"
+     //"name": "web development"
      // "keywords": [
     //  ]
     },
     {
-     "name": "app development"
+     //"name": "app development"
      // "keywords": [
      // ]
     },
     {
-      "name": "network security"
+      //"name": "network security"
     }
   ],
   "skills": [
