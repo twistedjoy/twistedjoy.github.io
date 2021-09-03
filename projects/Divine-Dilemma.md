@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/molly.png
+image: images/divine-dilemma-1.JPG
 title: Divine Dilemma
 permalink: projects/divineDilemma
 # All dates must be YYYY-MM-DD format!
