@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/divine-dilemma-1.JPG
 title: Divine Dilemma
-permalink: projects/divineDilemma
+permalink: projects/divine-dilemma
 # All dates must be YYYY-MM-DD format!
 date: 2017-03-01
 labels:
