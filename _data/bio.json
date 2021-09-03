@@ -90,7 +90,8 @@
          "Maintain, update, and research the internal SharePoint online site and Microsoft Office365",
          "Study network security"
       ]
-    } /*,
+    } 
+    /*,
     {
      // "company": "UH Information Technology Services",
       //"position": "Help Desk Consultant",
@@ -142,10 +143,12 @@
       "summary": "Scholarships awarded to incoming freshmen who complete a rigorous high school curriculum with a minimum overall GPA of 3.5."
     },
     {
+      /*
      // "title": "First place",
      // "date": "2015",
      // "awarder": "University of Hawaii Micromouse Competition",
      // "summary": "My team won first place in 2015.  See my portfolio site for more details."
+     */
     }
   ],
   "references": [
