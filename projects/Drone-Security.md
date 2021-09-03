@@ -12,8 +12,6 @@ labels:
 summary: My team conducted tests to capture and parse the wireless traffic of drones.
 ---
 
-**SAMPLE (PROJECT TEMPLATE)**
-
   <img class="ui left spaced image" src="../images/eex96-drone.jpg">
 
 This project took place over multiple semesters, wherein we learned Kali Linux in the first semester, and then went on to learn about drone applications and security in the next semester. Along the way, we transitioned to parsing our drones' wireless traffic and penetrating that traffic.
