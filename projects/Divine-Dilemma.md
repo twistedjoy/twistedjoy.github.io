@@ -10,7 +10,7 @@ labels:
   - scratch MIT
   - video game
   - art
-summary: A game that I made for my introductory programming class in 12th grade (senior year in high school). We were tasked with creating a game on the Scratch MIT website (https://scratch.mit.edu/), which we had been doing algorithmic exerises on for a while up until that point.
+summary: A game that I made for my introductory programming class in 12th grade (senior year in high school). We were tasked with creating a game on the Scratch MIT website (<a href = "https://scratch.mit.edu/"> Scratch MIT </a>), which we had been doing algorithmic exerises on for a while up until that point.
 
 <img class="ui left spaced image" src="{{ site.baseurl }}/images/divine-dilemma-2.jpg">
 
@@ -22,4 +22,4 @@ In our game, I practiced the techniques we had been learning, such as processing
 
 
  
-YouTube demonstration: (https://youtu.be/8AU2XbNhB88)
+YouTube demonstration: (<a href = "https://youtu.be/8AU2XbNhB88"> Divine Dilemma video </a>)
