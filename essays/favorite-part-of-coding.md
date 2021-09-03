@@ -8,7 +8,8 @@ labels:
   - engineering
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg"> *We want to believe that [the niceness of the] handwriting doesn't matter when we grade, but you know, it does matter. -- One of my former English teachers*
+<img class="ui left spaced image" src="../images/beautiful-filing-cabinet.png"> 
+*We want to believe that [the niceness of the] handwriting doesn't matter when we grade, but you know, it does matter. -- One of my former English teachers*
 
 # "I don't want to deal with this. It's a big mess." But what if it wasn't?
 
