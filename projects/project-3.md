@@ -9,12 +9,12 @@ date: 2018-04-20
 labels:
   - C++
   - video game
-summary: A text adventure game I developed for ICS 313.
+summary: A text-based game that I made in a group project for object-oriented programming class at UH Manoa. The player is tasked with naming and raising their own HuevoBaby. We also programmed save and load features into the game.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+"HuevoBaby" is a simple yet well-functioning game. Since there is no graphical user interface (GUI), we wanted to be sure that the game was easy to navigate (ex. instructions, formatting of the text), the story and objective were easy to follow, and the controls were easy to use. 
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). 
+I helped by writing the main function and roughly writing some of the functions and classes (if they were needed to test later parts of the main function). My other team members wrote out the functions and classes.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+YouTube Demonstration: <a href="https://youtu.be/h5-ghsrdxdY" HuevoBaby> </a>
 
