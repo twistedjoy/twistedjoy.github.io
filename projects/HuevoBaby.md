@@ -12,7 +12,7 @@ labels:
 summary: A text-based game that I made in a group project for object-oriented programming class at UH Manoa. The player is tasked with naming and raising their own HuevoBaby. We also programmed save and load features into the game.
 ---
 
-<img class="ui left spaced image" src="../images/huevobaby-1.png">
+<img class="ui left floated image" src="../images/huevobaby-1.png">
 
 "HuevoBaby" is a simple yet well-functioning game. Since there is no graphical user interface (GUI), we wanted to be sure that the game was easy to navigate (ex. instructions, formatting of the text), the story and objective were easy to follow, and the controls were easy to use. 
 
