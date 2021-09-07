@@ -17,7 +17,7 @@ summary: A game that I made for my introductory programming class in 12th grade 
 
 In our game, I practiced the techniques we had been learning, such as processing keyboard and mouse inputs from the user, implementing a counter (to keep track of the user's score), and conditional loops.
 
-The objective is to collect all of the coins. The player controlls the white clouds on the left and right sides of the screen by moving them up and down. Those are the only parts of the gameplay that the player are move or control. Those clouds as well as the white clouds on the entire top and bottom borders of the screen are friendly zones that are safe for the avatar to touch. In fact, the avatar bounces off of them.
+The objective is to collect all of the coins. The player controls the white clouds on the left and right sides of the screen by moving them up and down. Those are the only parts of the gameplay that the player are move or control. Those clouds as well as the white clouds on the entire top and bottom borders of the screen are friendly zones that are safe for the avatar to touch. In fact, the avatar bounces off of them.
 
 Meanwhile, if the avatar touches the evil spirit clouds (dark clouds on the entire left and right borders of the screen) or the evil spirits moving across the screen, then it will lose 1 stamina, and losing all of the avatar's stamina will result in a Game Over.
 
