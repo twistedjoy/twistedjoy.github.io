@@ -14,7 +14,7 @@ summary: My team conducted tests to capture and parse the wireless traffic of dr
 
   <img class="ui left spaced image" src="../images/eex96-drone.jpg">
 
-This project took place over multiple semesters, wherein we learned Kali Linux in the first semester, and then went on to learn about drone applications and security in the next semester. Along the way, we transitioned to parsing our drones' wireless traffic and hacking that traffic. The idea was that, if you wanted to disable or take down a drone remotely and without risk to civilians in the the surrounding area, then hacking the drone's wireless traffic and injecting your own commands (ex. go to ground, shut down) would be an effective solution. 
+This project took place over multiple semesters, wherein we learned Kali Linux in the first semester, and then went on to learn about drone applications and security in the next semester. Along the way, we transitioned to parsing our drones' wireless traffic and hacking that traffic. The idea was that, if you wanted to disable or take down a drone remotely and without risk to civilians in the surrounding area, then hacking the drone's wireless traffic and injecting your own commands (ex. go to ground, shut down) would be an effective solution. 
 
 The software that we used included Kali Linux and Wireshark. We used Python code that previous project members had written to process our (.json) files with; namely, the Python code would export the (.json) files to tables and graphs on Microsoft Excel spreadsheets. 
 
