@@ -22,7 +22,7 @@ For this project, we were a small team, so we were all involved in every process
 
 
 You can learn more at the [UH Cyber Security, Drone Applications and Security VIP (Vertically Integrated Project) Website](https://sites.google.com/a/hawaii.edu/uh-vip/teams/UAS).
-You can also visit the Github repository of the project: <a href="https://github.com/M5DroneSecurity/M5DS1"> github.com/M5DroneSecurity/M5DS1 </a>
+You can also visit the GitHub repository of the project: <a href="https://github.com/M5DroneSecurity/M5DS1"> github.com/M5DroneSecurity/M5DS1 </a>
 
 
 
