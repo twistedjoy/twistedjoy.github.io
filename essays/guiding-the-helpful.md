@@ -8,13 +8,14 @@ labels:
   - engineering
 --- 
 
-
+<img class = "ui right spaced image" src = "../images/guiding-the-helpful.PNG">
 
 # They're here and can help. 
 There's so much knowledge out there in the online software engineering community. For various reasons -- including gaining experience, tracking problems and developments in the industry, and just plain wanting to help others -- a lot of those knowledgeable people are active on engineering and computer forums and might help answer your questions. You just need to ask? Or, is that all?
 
 # What will you say?
 If you ask in an effective way, then you're helping them to help you in a more effective way. It's a bit of an art form; there's no perfect technique that applies to every situation. But, it can benefit you in the end if you make your question more presentable and easier to follow upfront. Ask your question in a certain way to help others think in a certain way, and you can guide them toward the type of answer that you want (assuming they have such specific, relevant information in the first place).
+
 
 ## Getting the help that you want
 When asking for help, it's good to first navigate to the correct forum for your question (ex. stackoverflow.com is great for programming-related questions). You can think of it as finding the right environment or grounds where you can set up your booth, stage your campaign. Essentially, you're trying to advertise for help, and you're trying to get the people around you to understand what you're saying.
