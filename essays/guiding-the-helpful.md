@@ -8,7 +8,7 @@ labels:
   - engineering
 --- 
 
-<img class = "ui right spaced medium image" src = "../images/guiding-the-helpful.PNG">
+<img class = "ui right spaced image" src = "../images/guiding-the-helpful.PNG">
 
 # They're here and can help. 
 There's so much knowledge out there in the online software engineering community. For various reasons -- including gaining experience, tracking problems and developments in the industry, and just plain wanting to help others -- a lot of those knowledgeable people are active on engineering and computer forums and might help answer your questions. You just need to ask? Or, is that all?
