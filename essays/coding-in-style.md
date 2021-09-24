@@ -11,6 +11,7 @@ labels:
   - IntelliJ
 ---
 
+<img class = "ui right spaced image" src = "../images/coding-style.png">
 
 ## Coding standards... some indentation here, braces over there, etcetera
 There are some widely followed coding standards, such as indenting lines of code that are inside of a loop. In general, these are stylistic, in order to help improve the code's readability. At the same time, there are variations depending on the programmer's personal preference. For example, exactly how big to make the indents, whether or not to vertically align a pair of curly braces, and what (if any) spaces to put around certain punctuation markings. In general, these coding standards don't make a difference to a computer reading the code, but they might make a difference to a person reading the code.
