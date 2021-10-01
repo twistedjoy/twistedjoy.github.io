@@ -8,6 +8,7 @@ labels:
   - engineering
   - school life
 ---
+
 ## One piece of paper. One ticket for financial stability (hopefully).
 Working toward a degree in college, the end game or end goal (aside from the unique experience of higher learning, of course) is to be hired for a good job, to lead you towards a good career -- one that pays well, has nice benefits, has a pleasant work environment, has work that you'd want to do, and/or has you work with people who you'd want to work with. I feel like there are two factors to this: (1) applying for places to hire you, and (2) being prepared for places to hire you.
 
