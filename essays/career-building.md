@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The other side of college life: Career-Building
+title: Starting this thing called "Career-Building"
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-30
 labels:
