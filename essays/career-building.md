@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Even with the homework/studying, even with the bills and other adult-life-ing. Dearest college student, you must not forget the other side of college life: Career-Building
+title: Not homework/studying, not bills or adult-life-ing. The other side of college life: Career-Building
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-30
 labels:
