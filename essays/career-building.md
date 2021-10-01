@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Not homework, not studying, not bills or adult-life-ing. The other side of college life: Career-Building
+title: The other side of college life: Career-Building
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-30
 labels:
