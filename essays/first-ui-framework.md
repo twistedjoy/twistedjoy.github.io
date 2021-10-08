@@ -26,7 +26,7 @@ There's a fair amount of front-loaded or initial learning to be done with a UI F
 
 *The original website's header.*
 <img class="ui left spaced image" src="../images/first-ui-framework-original.png">  
-<img class="ui right spaced image" src="../images/first-ui-framework-recreation.png">
+<img class="ui left spaced image" src="../images/first-ui-framework-recreation.png">
 *My attempt at a recreation using Semantic UI and HTML/CSS.*
 
 ### It's not all bad, though!
