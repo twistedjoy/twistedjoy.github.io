@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: First UI Framework: Hours of experimenting with options, and you're quickly accurate, but might never be precise
+title: First UI Framework: quickly accurate, but might never be precise
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-07
 labels:
