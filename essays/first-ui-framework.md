@@ -24,7 +24,7 @@ If my vision was not possible or I tried but couldn't get the suggested workarou
 
 There's a fair amount of front-loaded or initial learning to be done with a UI Framework, it seems. For Semantic UI, I could never get the hang of adjusting the spacing of elements (ex. in a grid), and I found the structure options to be too restrictive at times. Hover/Mouse-over behavior and custom coloring of some elements could be surprisingly quite complicated, too. Sometimes, taking advantage of the specific-name priority of CSS acted as a great workaround, although I found it to be quite inconvenient nonetheless.
 
-*The original website.*
+*The original website's header.*
 <img class="ui left spaced image" src="../images/first-ui-framework-original.png">  
 <img class="ui right spaced image" src="../images/first-ui-framework-recreation.png">
 *My attempt at a recreation using Semantic UI and HTML/CSS.>
@@ -36,3 +36,5 @@ Even with my gripes, I'm glad to have had Semantic UI since it gave me more opti
 I feel like my negative experiences with Semantic UI (the only UI Framework I have experience with) were mainly in the realm of growing pains. When it comes to a UI Framework, there's a lot to unpack and a lot to learn. It also means there are a lot of fun features available to you once you do get the hang of them.
 
 I will not hesitate to say that I'm not very adept at HTML and CSS (yet), and I am not very knowledgeable about Semantic UI at this point, either, so trying to do projects with the two of them ended up being quite overwhelming at times as I realized more and more, how much I didn't know. Still, I do remember having fun playing with the different features, and I can't imagine the crazy fun I might have once I have a greater depth of knowledge and can just go for it, with all of these tools at my disposal.
+
+Original website: (https://www.citykitties.org).
