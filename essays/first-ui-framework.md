@@ -27,7 +27,7 @@ There's a fair amount of front-loaded or initial learning to be done with a UI F
 *The original website's header.*
 <img class="ui left spaced image" src="../images/first-ui-framework-original.png">  
 <img class="ui right spaced image" src="../images/first-ui-framework-recreation.png">
-*My attempt at a recreation using Semantic UI and HTML/CSS.>
+*My attempt at a recreation using Semantic UI and HTML/CSS.*
 
 ### It's not all bad, though!
 Even with my gripes, I'm glad to have had Semantic UI since it gave me more options in webpage design, some of which I couldn't imagine trying to accomplish with only HTML and CSS. Specifically, creating drop-down menus, being able to use the icon library on the website, and putting elements into a container for some quick and tidy margins, were very helpful and easy to do.
