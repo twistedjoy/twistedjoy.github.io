@@ -24,6 +24,11 @@ If my vision was not possible or I tried but couldn't get the suggested workarou
 
 There's a fair amount of front-loaded or initial learning to be done with a UI Framework, it seems. For Semantic UI, I could never get the hang of adjusting the spacing of elements (ex. in a grid), and I found the structure options to be too restrictive at times. Hover/Mouse-over behavior and custom coloring of some elements could be surprisingly quite complicated, too. Sometimes, taking advantage of the specific-name priority of CSS acted as a great workaround, although I found it to be quite inconvenient nonetheless.
 
+*The original website.*
+<img class="ui left spaced image" src="../images/first-ui-framework-original.png">  
+<img class="ui right spaced image" src="../images/first-ui-framework-recreation.png">
+*My attempt at a recreation using Semantic UI and HTML/CSS.>
+
 ### It's not all bad, though!
 Even with my gripes, I'm glad to have had Semantic UI since it gave me more options in webpage design, some of which I couldn't imagine trying to accomplish with only HTML and CSS. Specifically, creating drop-down menus, being able to use the icon library on the website, and putting elements into a container for some quick and tidy margins, were very helpful and easy to do.
 
