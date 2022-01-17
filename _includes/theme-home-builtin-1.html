@@ -5,7 +5,7 @@
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
-{% assign now_seconds = { "now" | date: "%S" } %}
+{% assign now_seconds = {{ "now" | date: "%S" }} %}
 {% if { {{ now_seconds }} | modulo: 2 } == 0 %}
   {% assign home_picture = <img src="{{ site.data.bio.basics.pictureEven }}"> %}
 {% else %}
